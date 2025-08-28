@@ -1,0 +1,2 @@
+[console_scripts]
+library-cli = library_management.cli:cli

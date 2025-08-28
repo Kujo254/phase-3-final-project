@@ -1,0 +1,5 @@
+Metadata-Version: 2.1
+Name: library_management
+Version: 1.0.0
+Requires-Dist: click
+Requires-Dist: SQLAlchemy
