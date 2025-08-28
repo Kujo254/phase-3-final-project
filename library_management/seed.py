@@ -22,7 +22,7 @@ def seed_data():
     # Add all to session
     session.add_all([book1, book2, book3, member1, member2, record1, record2])
     session.commit()
-    print("✅ Database seeded with fresh data!")
+    print("Database seeded with fresh data!")
 
 if __name__ == "__main__":
     seed_data()
